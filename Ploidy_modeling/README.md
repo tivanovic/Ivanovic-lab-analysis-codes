@@ -43,4 +43,4 @@ Rendering writes the notebook output and exports individual figures as SVG, PDF,
 
 ## Current notebook scope
 
-The supplied combined notebook also generates exploratory overdominance, underdominance, dominant-negative, and diploid comparison plots. Those analyses are outside the dominant/recessive manuscript model summarized above. Remove their chunks before treating the notebook as the final, manuscript-matched analysis.
+The supplied combined notebook also generates exploratory overdominance, underdominance, dominant-negative, and diploid comparison plots. Those analyses are outside the dominant/recessive manuscript model summarized above. 
