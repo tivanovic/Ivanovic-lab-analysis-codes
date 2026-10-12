@@ -2,7 +2,7 @@
 
 This repository contains an R Markdown analysis of how the number of viral genomes in an infectious unit affects selection on a mutant genome. The model accompanies the allele frequency modeling section of an influenza A virus aggregation study. It compares fixed ploidy, variation in ploidy among infectious units, and ploidy that changes between generations.
 
-The repository contains a theoretical model and its figures. It does not contain the experimental measurements, sequencing data, or analysis pipelines for the other experiments described in the study's Methods.
+The repository contains a theoretical model and its figures. 
 
 ## Model
 
