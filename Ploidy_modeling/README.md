@@ -36,7 +36,7 @@ install.packages(c("rmarkdown", "ggplot2", "tidyr", "dplyr", "svglite"))
 From the repository root, run:
 
 ```r
-rmarkdown::render("combined_ploidy_models_A4_8pt_ploidy2_comparison_ZTP_HM_updated(1).Rmd")
+rmarkdown::render("combined_ploidy_models_A4_8pt_ploidy2_comparison_ZTP_HM_updated.Rmd")
 ```
 
 Rendering writes the notebook output and exports individual figures as SVG, PDF, and 600 dpi TIFF files to `ploidy_individual_plots_A4_8pt_final_layout/`. PDF export requires an R graphics installation with Cairo support. No external input dataset is required for these simulations.
